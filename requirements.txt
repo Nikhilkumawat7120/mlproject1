@@ -1,3 +1,7 @@
 numpy
 pandas
 #-e .
+python-dotenv #envirment variable ko read karne me madad karti h 
+mysql-connector-python
+pymysql #ess k trew record read kar sakte h 
+scikit-learn
